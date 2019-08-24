@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--
+/**
+* @category Extrembler
+* @package  Extrembler_Base
+* @author   Extrembler
+*/
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <css src="Extrembler_Base::css/main.css"/>
+    </head>
+</page>
